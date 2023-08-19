@@ -24,7 +24,7 @@ Given the limitations of hubs, they have largely fallen out of use in favor of m
 
 In summary, hubs were simple and inexpensive networking devices used to connect multiple devices in a LAN, but their inefficiencies and lack of advanced features have led to their obsolescence in modern networking setups. Switches and routers are now the preferred choices for creating efficient and secure networks.
 
-#HUB OUTPUT
+# HUB OUTPUT
 ![hub output](https://github.com/DeepikaA2004/Computer-Networks/assets/110418508/4cc916f5-4f23-43e7-8fab-2d4cc875b3c7)
 
 # SWITCH 
@@ -84,6 +84,6 @@ Routers play a crucial role in connecting and managing network traffic between d
 
 In summary, routers are essential components in modern computer networks, enabling the interconnection of different networks and facilitating efficient data routing. Their ability to manage network traffic, provide security features, and create logical network segments makes them integral to the functioning of the Internet and various network environments.
 
-# SWITCH -ROUTER- SWITCH
+# SWITCH -ROUTER- SWITCH OUTPUT
 
 ![switch-router-switch output](https://github.com/DeepikaA2004/Computer-Networks/assets/110418508/336a5c8c-35e2-4437-b268-52f461b6151d)
